@@ -1,0 +1,178 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.29)  3 DEC 2021 21:35
+entering extended mode
+**./Multicapa.tex
+(Multicapa.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(D:\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(D:\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(D:\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box50
+) (Multicapa.aux)
+\openout1 = `Multicapa.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(D:\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen142
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks18
+) (D:\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+<2a.png, id=1, 404.2302pt x 318.4698pt>
+File: 2a.png Graphic file (type png)
+<use 2a.png>
+Package pdftex.def Info: 2a.png  used on input line 10.
+(pdftex.def)             Requested size: 404.2292pt x 318.46901pt.
+
+Overfull \hbox (14.2292pt too wide) in paragraph at lines 10--11
+[] 
+ []
+
+[1
+
+{C:/Users/mmanu/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./2a.png (PNG c
+opy)>]
+<2c.png, id=9, 404.2302pt x 318.4698pt>
+File: 2c.png Graphic file (type png)
+<use 2c.png>
+Package pdftex.def Info: 2c.png  used on input line 16.
+(pdftex.def)             Requested size: 404.2292pt x 318.46901pt.
+
+Overfull \hbox (14.2292pt too wide) in paragraph at lines 16--17
+[] 
+ []
+
+<2d1.png, id=10, 410.0118pt x 318.4698pt>
+File: 2d1.png Graphic file (type png)
+<use 2d1.png>
+Package pdftex.def Info: 2d1.png  used on input line 22.
+(pdftex.def)             Requested size: 410.01079pt x 318.46901pt.
+
+Overfull \hbox (20.01079pt too wide) in paragraph at lines 22--23
+[][] 
+ []
+
+<2d2.png, id=11, 404.2302pt x 318.4698pt>
+File: 2d2.png Graphic file (type png)
+<use 2d2.png>
+Package pdftex.def Info: 2d2.png  used on input line 26.
+(pdftex.def)             Requested size: 404.2292pt x 318.46901pt.
+
+Overfull \hbox (14.2292pt too wide) in paragraph at lines 26--27
+[][] 
+ []
+
+<2d3.png, id=12, 410.0118pt x 318.4698pt>
+File: 2d3.png Graphic file (type png)
+<use 2d3.png>
+Package pdftex.def Info: 2d3.png  used on input line 30.
+(pdftex.def)             Requested size: 410.01079pt x 318.46901pt.
+
+Overfull \hbox (20.01079pt too wide) in paragraph at lines 30--31
+[][] 
+ []
+
+[2 <./2c.png (PNG copy)>] [3 <./2d1.png (PNG copy)>] [4 <./2d2.png (PNG copy)>]
+[5 <./2d3.png (PNG copy)>]
+<2e.png, id=25, 387.3672pt x 301.6068pt>
+File: 2e.png Graphic file (type png)
+<use 2e.png>
+Package pdftex.def Info: 2e.png  used on input line 38.
+(pdftex.def)             Requested size: 387.36626pt x 301.60605pt.
+
+Overfull \hbox (14.99107pt too wide) in paragraph at lines 38--39
+[][] 
+ []
+
+[6 <./2e.png (PNG copy)>] (Multicapa.aux) ) 
+Here is how much of TeX's memory you used:
+ 1246 strings out of 478927
+ 18676 string characters out of 2864780
+ 312167 words of memory out of 3000000
+ 19142 multiletter control sequences out of 15000+600000
+ 405853 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,7n,66p,314b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+<D:/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Multicapa.pdf (6 pages, 145891 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
