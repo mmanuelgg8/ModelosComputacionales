@@ -1,0 +1,40 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\author{Manuel González González}
+\title{Práctica 9: Detección de Movimiento (Opcional)}
+\begin{document}
+\maketitle
+
+
+\section*{Ejercicio 2}
+\subsection*{c)}
+Todo el fondo pasaría a ser objeto dinámico y la segmentación no se haría correctamente.
+
+\subsection*{d)}
+Podemos hacer la comprobación iniciando la matriz de pesos con rand en lugar de zeros.
+
+La red es capaz de crear una segmentación aunque esta incluye mucho ruido, ya que el modelo de fondo y del primer plano se confunden con facilidad.
+
+\subsection*{e)}
+
+Dado que solo una neurona puede ganar, las demás quedarían muertas y acabaría especializándose la ganadora en el color del píxel.
+
+\section*{Ejercicio 3}
+\subsection*{a)}
+La red funciona mejor que la sin refuerzo, pero esto solo se puede conseguir si tenemos otro conjunto de datos para poder decir a la red si se ha equivocado o no, por lo que dependiendo del caso puede ser menos útil, ya que es un trabajo que habremos de realizar de antemano.
+
+\subsection*{b)}
+Al principio las eta son muy bajas y tardan en aprender el modelo de fondo. En el momento en el que el coche desaparece de esa zona el valor de las eta es mayor ya que se ha producido un error que aumenta el próximo salto de aprendizaje, mientras que las demás, al estar acercándose al valor deseado, cada vez aprenden más lento.
+
+\subsection*{c)}
+Hacemos esto para que no llegue a haber colores negativos (los cuales todavía no existen), ni aquellos que se pasen del valor máximo del RGB. Por lo que otra opción podría ser mantener la regla original, pero poniendo una limitación para que no sobrepase los extremos del conjunto de valores posibles para representar los colores.
+
+\section*{Ejercicio 4}
+No creo que fuera una buena idea ya que con el mapa de Kohonen se modifica el valor de las neuronas vecinas de la ganadora, lo cual puede producir errores de aprendizaje del modelo de fondo cuando aparece un objeto dinámico. Puesto que las neuronas ganadoras atraerán a las vecinas que estén representando el contorno del objeto en movimiento. 
+
+\end{document}
